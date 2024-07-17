@@ -1,0 +1,72 @@
+{
+  "users": [
+    {
+      "id": "74b1",
+      "name": "Hasan",
+      "email": "hasan@gmail.com",
+      "password": "Hasan1995"
+    },
+    {
+      "id": "ce20",
+      "name": "Juni",
+      "email": "juni@gmail.com",
+      "password": "Juni1995"
+    },
+    {
+      "id": "719f",
+      "name": "Juni2",
+      "email": "j2@gmail.com",
+      "password": "J21995"
+    },
+    {
+      "id": "3953",
+      "name": "JK",
+      "email": "jk@user.com",
+      "password": "jk"
+    },
+    {
+      "id": "1428",
+      "name": "hk",
+      "email": "hk@user.com",
+      "password": "hk"
+    },
+    {
+      "id": "d299",
+      "name": "hh",
+      "email": "hh@jj",
+      "password": "jjj"
+    },
+    {
+      "id": "012a",
+      "name": "hh",
+      "email": "hh@gg",
+      "password": "hh"
+    },
+    {
+      "id": "4055",
+      "name": "ddd",
+      "email": "ddd@gmail.com",
+      "password": "ddd123456"
+    }
+  ],
+  "resturants": [
+    {
+      "id": "1",
+      "name": "Taj Hotel",
+      "contract": "01752021921",
+      "address": "Tangail"
+    },
+    {
+      "name": "Nadim",
+      "contract": "01752021921",
+      "address": "Town Hall",
+      "id": "9e66"
+    },
+    {
+      "name": "Jannat",
+      "contract": "01234567891",
+      "address": "Town Hall",
+      "id": "c197"
+    }
+  ]
+}
